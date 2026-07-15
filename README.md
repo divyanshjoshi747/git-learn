@@ -4,7 +4,7 @@ Created this repository on 15 July, 2026.
 
 The code it contained on that day is:
 
-'''<!DOCTYPE html>
+```<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -20,4 +20,4 @@ The code it contained on that day is:
         <li>Contact us</li>
     </ul>
 </body>
-</html>'''
+</html>```
